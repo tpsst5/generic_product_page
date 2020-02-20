@@ -10,3 +10,5 @@ This project was complete in order to practice basic html and css.
 
 ## Setup: 
 The live version of this webpage can be seen [here](https://tpsst5.github.io/generic_product_page/).
+## Status: 
+This project is complete.
